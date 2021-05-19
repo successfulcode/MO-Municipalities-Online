@@ -1,0 +1,84 @@
+{
+  "common":{
+    "login": "Login",
+    "signUp": "Sign up",
+    "error": "Error!",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "required": "*",
+    "dashboard": "Dashboard"
+  },
+  
+  "components": {
+        "errorIndicator": {
+            "sometingHappened": "Oh, something happened",
+            "sorry": "Sorry, we are already handling this failure"
+        },
+        "Landing": {
+          "LangingAuthWindow": {
+            "greetings": "Welcome to the social network of municipal employees! Please log in or sign up on the website if you are with us for the first time!"
+          }
+        },
+        "FooterItem": {
+          "copyright": "All rights reserved © 2021 Solution:"
+        },
+        "Login": {
+          "email": "Email",
+          "password": "Password",
+          "errorTitle": "Wrong password or email!",
+          "errorMesage": "Please check the details and try again.",
+          "back": "Back",
+          "dontHaveAnAccount": "Don't have an account?"
+        },
+        "SignUp": {
+          "name": "Name Surname",
+          "confirmPassword": "Confirm Password",
+          "alreadyHaveAnAccount": "Already have an account?"
+        },
+        "ProfileForms": {
+          "CreateProfile": {
+            "createYourProfile": "Create Your Profile",
+            "someInformation": "Let's get some information to make your profile stand out",
+            "requiredField": "* = required field",
+            "municipality": "Municipality", 
+            "municipalWebsite": "Municipal Website", 
+            "location": "Location", 
+            "status": "Status", 
+            "skills": "Skills", 
+            "partyAffiliation": "Party affiliation", 
+            "partyName": "Party name", 
+            "about": "About", 
+            "youtube": "youtube", 
+            "twittter": "twittter", 
+            "facebook": "facebook", 
+            "instagram": "instagram",
+            "addSocialMedia": "Add social media",
+            "hideSocialMedia": "Hide social media"
+          },
+          "AddExperience": {
+            "add": "Add An Experience",
+            "addExperienceDescription": "Add all the previous positions you have worked for",
+            "company": "Organization or company name",
+            "title": "Title",
+            "location": "Location",
+            "fromDate": "From Date",
+            "toDate": "To Date",
+            "currentJob": "Current Job",
+            "description": "Job description"
+          },
+          "AddEducation": {
+            "add": "Add Your Education",
+            "addEducationDescription": "Describe in which educational institutions you studied",
+            "description": "Description, additional information",
+            "school": "School",
+            "degree": "Degree",
+            "fieldofstudy": "Field of study",
+            "current": "Current"
+          },
+          "EditProfile": {
+            "edit": "Edit Your Profile"
+          }
+        }
+  }
+}
+  

@@ -1,0 +1,83 @@
+{
+  "common":{
+    "login": "Prisijungti",
+    "signUp": "Registruotis",
+    "error": "Klaida!",
+    "confirm": "Patvirtinti",
+    "cancel": "Atšaukti",
+    "required": "*",
+    "dashboard": "Valdymo skydelis"
+  },
+  
+    "components": {
+      "errorIndicator": {
+          "sometingHappened": "Oi, Kažkas atsitiko",
+          "sorry": "Atsiprašome, mes jau tai tvarkome gedimą"
+        },
+        "Landing": {
+          "LangingAuthWindow": {
+            "greetings": "Sveiki atvykę į savivaldybių darbuotojų socialinį tinklą! Prašome prisijungti ar užsiregistruoti tinklalapyje, jeigu Jūs pas mus pirmą kartą!"
+          }
+        },
+      "FooterItem": {
+        "copyright": "Visos teisės saugomos © 2021 Sprendimas:"
+      },
+      "Login": {
+        "email": "El.paštas",
+        "password": "Slaptažodis",
+        "errorTitle": "Neteisingas slaptažodis arba el.paštas!",
+        "errorMesage": "Prašome patikrinti duomenis ir bandyti dar kartą.",
+        "back": "Atgal",
+        "dontHaveAnAccount": "Neturite paskyros?"
+      },
+      "SignUp": {
+        "name": "Vardas Pavardė",
+        "confirmPassword": "Patvirtinkite slaptažodį",
+        "alreadyHaveAnAccount": "Jau turite paskyrą?"
+      },
+      "ProfileForms": {
+      "CreateProfile": {
+        "createYourProfile": "Sukurkite savo profilį",
+        "someInformation": "Įveskite šiek tiek informacijos, kad jūsų profilis išsiskirtų",
+        "requiredField": "* = privalomas laukas",
+        "municipality": "Savivaldybė", 
+        "municipalWebsite": "Savivaldybės tinklalapis", 
+        "location": "Gyvenamoji vieta", 
+        "status": "Statusas", 
+        "skills": "Įgūdžiai", 
+        "partyAffiliation": "Partinė priklausomybė", 
+        "partyName": "Partijos pavadinimas", 
+        "about": "Apie", 
+        "youtube": "youtube", 
+        "twittter": "twittter", 
+        "facebook": "facebook", 
+        "instagram": "instagram",
+        "addSocialMedia": "Pridėti socialinius tinklus",
+        "hideSocialMedia": "Paslėpti socialinius tinklus"
+      },
+      "AddExperience": {
+        "add": "Pridėkite darbo patirtį",
+        "addExperienceDescription": "Aprašykite visas ankstesnes darbovietės, kuriose dirbote",
+        "company": "Organizacijos ar įmonės pavadinimas",
+        "title": "Pareigos",
+        "location": "Vieta",
+        "fromDate": "Nuo datos",
+        "toDate": "Iki datos",
+        "currentJob": "Dabartinis darbas",
+        "description": "Darbo aprašymas"
+      },
+      "AddEducation": {
+        "add": "Pridėkite informacijos apie išsilavinimą",
+        "addEducationDescription": "Aprašykite, kuriose švietimo įstaigose mokėtės",
+        "description": "Aprašymas, papildoma informacija",
+        "school": "Įstaigos pavadinimas",
+        "degree": "Laipsnis",
+        "fieldofstudy": "Studijų sritis",
+        "current": "Dabar studijuoju"
+      },
+      "EditProfile": {
+        "edit": "Redaguoti profilį"
+      }
+    }
+  }
+}

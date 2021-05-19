@@ -1,0 +1,84 @@
+{
+  "common":{
+    "login": "Войти",
+    "signUp": "Регистрация",
+    "error": "Ошибка!",
+    "confirm": "Подтвердить",
+    "cancel": "Отмена",
+    "required": "*",
+    "dashboard": "Панель управления"
+  },
+  
+    "components": {
+        "errorIndicator": {
+            "sometingHappened": "Ой, что-то случилось",
+            "sorry": "Извините, мы уже исправляем эту ошибку"
+        },
+        "Landing": {
+          "LangingAuthWindow": {
+            "greetings": "Добро пожаловать в социальную сеть муниципальных служащих! Пожалуйста, авторизуйтесь или зарегистрируйтесь на сайте, если вы впервые у нас!"
+          }
+        },
+        "FooterItem": {
+          "copyright": "Все права защищены © 2021 Решение:"
+        },
+        "Login": {
+          "email": "Эл. почта",
+          "password": "Пароль",
+          "errorTitle": "Неверный пароль или эл.почта!",
+          "errorMesage": "Пожалуйста, проверьте данные и попробуйте еще раз.",
+          "back": "Назад",
+          "dontHaveAnAccount": "Не зарегистрировались?"
+        },
+        "SignUp": {
+          "name": "Имя Фамилия",
+          "confirmPassword": "Подтвердите пароль",
+          "alreadyHaveAnAccount": "Уже есть аккаунт?"
+        },
+        "ProfileForms": {
+          "CreateProfile": {
+            "createYourProfile": "Создайте свой профиль",
+            "someInformation": "Введите немного информации, чтобы ваш профиль выделялся",
+            "requiredField": "* = обязательное поле",
+            "municipality": "Самоуправление", 
+            "municipalWebsite": "Сайт самоуправления", 
+            "location": "Место жительства", 
+            "status": "Статус", 
+            "skills": "Навыки и умения", 
+            "partyAffiliation": "Партийная принадлежность", 
+            "partyName": "Название партии", 
+            "about": "О себе", 
+            "youtube": "youtube", 
+            "twittter": "twittter", 
+            "facebook": "facebook", 
+            "instagram": "instagram",
+            "addSocialMedia": "Добавить соцсети",
+            "hideSocialMedia": "Скрыть социальные сети"
+          },
+          "AddExperience": {
+            "add": "Добавить опыт работы",
+            "addExperienceDescription": "Опишите все предыдущие должности, на которых вы работали",
+            "company": "Названия организации и фирмы",
+            "title": "Должность",
+            "location": "Место нахождения",
+            "fromDate": "С даты",
+            "toDate": "До даты",
+            "currentJob": "Текущее место работы",
+            "description": "Описание места работы"
+          },
+          "AddEducation": {
+            "add": "Добавить информацию об образование",
+            "addEducationDescription": "Опишите в каких учебных учреждениях вы учились",
+            "description": "Описание, дополнительная информация",
+            "school": "Название учебного заведения",
+            "degree": "Степень",
+            "fieldofstudy": "Область обучения",
+            "current": "Cейчас учусь"
+          },
+          "EditProfile": {
+            "edit": "Редактировать профиль"
+          }
+        }
+    }
+}
+  

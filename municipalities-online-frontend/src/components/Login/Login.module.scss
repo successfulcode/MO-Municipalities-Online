@@ -1,0 +1,30 @@
+.Login {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    form{
+        text-align: center;
+        width: 40rem;
+        height: auto;
+        margin-top: 5rem;
+        background: radial-gradient(circle, rgba(126,175,233,0.5186449579831933) 0%, rgba(47,24,199,0.4374124649859944) 100%);
+        padding: 3rem;
+        border-radius: 10px;
+
+        h2{
+            color: rgb(255, 255, 255);
+            margin-bottom: 2rem;
+            font-family: Arial;
+        }
+        
+        :link{
+            text-decoration: none;
+        }
+    }
+
+    input{
+        margin-bottom: 2rem;
+    }
+}

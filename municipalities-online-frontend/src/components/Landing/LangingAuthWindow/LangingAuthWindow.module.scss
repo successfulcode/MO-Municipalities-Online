@@ -1,0 +1,30 @@
+.LangingAuthWindow{
+    width: 50rem;
+    height: 42rem; 
+    border-color: rgba(0, 0, 255, 0.192); 
+    border-style: solid;
+    border-width: 3px; 
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px #888888;
+    background: radial-gradient(circle, rgba(126,175,233,0.5186449579831933) 40%, rgba(47,24,199,0.4374124649859944) 60%);
+    img{
+        width: 15rem;
+        height: auto;
+        padding-bottom: 1rem;
+    }
+    h3{
+        background-color: rgba(255, 255, 255, 0.164);
+        padding: .5rem;
+        border-radius: 10px;
+    }
+    >div{
+        color: #112a59;
+        padding: .5rem;
+        text-align: center;
+        font-family: Arial;
+    }
+    button {
+        text-align: center;
+        cursor: pointer; 
+    }
+}

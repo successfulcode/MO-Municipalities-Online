@@ -3,3 +3,5 @@
 
 # Prettier style
 .prettierrc
+
+node_modules/
