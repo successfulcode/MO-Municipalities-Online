@@ -4,4 +4,5 @@
 # Prettier style
 .prettierrc
 
+#Node modules
 node_modules/
