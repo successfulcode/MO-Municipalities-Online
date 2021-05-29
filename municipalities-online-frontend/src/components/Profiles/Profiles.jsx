@@ -1,8 +1,6 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import ProfileItem from './ProfileItem/ProfileItem'
+import ProfileItem from './ProfileItem/ProfileItem';
 
-const Profiles = props => {
+const Profiles = () => {
     return (
         <div>
             <ProfileItem />
@@ -10,8 +8,4 @@ const Profiles = props => {
     )
 }
 
-Profiles.propTypes = {
-
-}
-
-export default Profiles
+export default Profiles;
